@@ -1,4 +1,4 @@
-üldine ülevaade ülikoolis mentaalsete probleemide kohta: https://health.clevelandclinic.org/mental-health-in-college-students,
+Üldine ülevaade ülikoolis mentaalsete probleemide kohta: https://health.clevelandclinic.org/mental-health-in-college-students,
 https://adolescentmentalhealth.com/blog/student-mental-health-resources/#:~:text=This%20comprehensive%20guide%20will%20walk%20you%20through%20the,unique%20stressors%20that%20can%20significantly%20impact%20mental%20health.,
 https://www.collegenp.com/article/12-ways-to-improve-students-mental-health
 https://counselingcenter.ecu.edu/resources/self-help/
@@ -16,15 +16,15 @@ https://teachers.institute/guidance-counselling/promoting-mental-health-students
 
 https://measuringminds.org/blog/strategies-for-supporting-student-mental-health/
 
-kuidas tegeleda probleemidega: https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179
+Kuidas tegeleda probleemidega: https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179
 
 
 
 Burnout: https://www.uopeople.edu/blog/what-is-academic-burnout/
 
-ainepuudusega seotud mentaalsed probleemid: https://www.rupahealth.com/post/top-nutrient-deficiencies-that-affect-mental-health
+Ainepuudusega seotud mentaalsed probleemid: https://www.rupahealth.com/post/top-nutrient-deficiencies-that-affect-mental-health
 
-unepuudus ja mentaalsed probleemid: https://www.psychologytoday.com/us/basics/sleep/sleep-and-mental-health?msockid=0a5321e8441661e10bcc362f45416038
+Unepuudus ja mentaalsed probleemid: https://www.psychologytoday.com/us/basics/sleep/sleep-and-mental-health?msockid=0a5321e8441661e10bcc362f45416038
 https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/
 
 Tartu ülikoolis tasuta nõustamine: https://ut.ee/et/noustamiskeskus
