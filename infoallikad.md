@@ -1,4 +1,5 @@
-üldine ülevaade ülikoolis mentaalsete probleemide kohta: https://health.clevelandclinic.org/mental-health-in-college-students
+üldine ülevaade ülikoolis mentaalsete probleemide kohta: https://health.clevelandclinic.org/mental-health-in-college-students,
+https://adolescentmentalhealth.com/blog/student-mental-health-resources/#:~:text=This%20comprehensive%20guide%20will%20walk%20you%20through%20the,unique%20stressors%20that%20can%20significantly%20impact%20mental%20health.
 
 
 
@@ -6,7 +7,7 @@ Public speaking: https://studentaffairs.baruch.cuny.edu/counseling/tips-for-mana
 
 
 
-https://adolescentmentalhealth.com/blog/student-mental-health-resources/#:~:text=This%20comprehensive%20guide%20will%20walk%20you%20through%20the,unique%20stressors%20that%20can%20significantly%20impact%20mental%20health.
+
 
 https://teachers.institute/guidance-counselling/promoting-mental-health-students/
 
