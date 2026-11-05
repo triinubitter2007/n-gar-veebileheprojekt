@@ -28,3 +28,17 @@ unepuudus ja mentaalsed probleemid: https://www.psychologytoday.com/us/basics/sl
 https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/
 
 Tartu ülikoolis tasuta nõustamine: https://ut.ee/et/noustamiskeskus
+
+Ärevus: https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/
+
+Stress: https://www.nhs.uk/every-mind-matters/mental-health-issues/stress/
+
+Kehv tuju: https://www.nhs.uk/every-mind-matters/mental-health-issues/low-mood/
+https://www.nhs.uk/every-mind-matters/mental-health-issues/low-mood/
+
+Prokrastineerimine: https://counseling.uiowa.edu/procrastination-self-help-workshop
+https://www.monash.edu/student-academic-success/goal-setting-and-time-management/how-to-overcome-procrastinating-at-university
+
+Rahaline stress: https://www.nhs.uk/every-mind-matters/lifes-challenges/money-worries-mental-health/
+
+
