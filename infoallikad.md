@@ -15,7 +15,7 @@ https://teachers.institute/guidance-counselling/promoting-mental-health-students
 
 https://measuringminds.org/blog/strategies-for-supporting-student-mental-health/
 
-https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179
+kuidas tegeleda probleemidega: https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179
 
 
 
