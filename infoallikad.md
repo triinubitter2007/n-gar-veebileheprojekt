@@ -1,4 +1,4 @@
-https://health.clevelandclinic.org/mental-health-in-college-students
+üldine ülevaade ülikoolis mentaalsete probleemide kohta: https://health.clevelandclinic.org/mental-health-in-college-students
 
 
 
