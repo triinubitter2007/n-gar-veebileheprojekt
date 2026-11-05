@@ -24,3 +24,5 @@ Burnout: https://www.uopeople.edu/blog/what-is-academic-burnout/
 ainepuudusega seotud mentaalsed probleemid: https://www.rupahealth.com/post/top-nutrient-deficiencies-that-affect-mental-health
 
 unepuudus ja mentaalsed probleemid: https://www.psychologytoday.com/us/basics/sleep/sleep-and-mental-health?msockid=0a5321e8441661e10bcc362f45416038
+
+Tartu ülikoolis tasuta nõustamine: https://ut.ee/et/noustamiskeskus
