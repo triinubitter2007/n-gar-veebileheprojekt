@@ -5,7 +5,7 @@ https://counselingcenter.ecu.edu/resources/self-help/
 
 
 
-Public speaking: https://studentaffairs.baruch.cuny.edu/counseling/tips-for-managing-public-speaking-anxiety/, https://www.betterhelp.com/advice/anxiety/12-ways-to-get-rid-of-public-speaking-anxiety/
+Avalik esinemine: https://studentaffairs.baruch.cuny.edu/counseling/tips-for-managing-public-speaking-anxiety/, https://www.betterhelp.com/advice/anxiety/12-ways-to-get-rid-of-public-speaking-anxiety/
 
 
 
@@ -20,7 +20,7 @@ Kuidas tegeleda probleemidega: https://www.verywellmind.com/top-school-stress-re
 
 
 
-Burnout: https://www.uopeople.edu/blog/what-is-academic-burnout/
+Läbipõlemine: https://www.uopeople.edu/blog/what-is-academic-burnout/
 
 Ainepuudusega seotud mentaalsed probleemid: https://www.rupahealth.com/post/top-nutrient-deficiencies-that-affect-mental-health
 
