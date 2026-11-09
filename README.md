@@ -1,5 +1,2 @@
 # nägar-veebileheprojekt
-õppimisega seoses
-kadunud kassi web
-the slap knockoff IT-tudengitele
-mental heath/seoses ülikooliga
+Loome üliõpilastele suunatud vaimse tervise veebilehe, mis aitab tutvustada levinud probleeme ning pakub nõuandeid nende lahendamiseks ja abivõimaluste leidmiseks.
