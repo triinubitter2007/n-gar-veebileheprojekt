@@ -1,0 +1,43 @@
+body {
+    background-color: #A258F6;
+    font-family: Arial;
+}
+
+.leht {
+    background-color: #FFF5FD;
+    margin: 20px;
+    padding: 100px;
+    margin-bottom:-100px;
+}
+
+.sisu {
+    display: flex;
+}
+
+.vasak {
+    width: 60%;
+}
+
+.parem {
+    width: 60%;
+    margin-left: 20px;
+    margin-top:-100px;
+    margin-bottom:90px;
+    padding: -30px;
+    background-color: #CFBFF7;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    background-color: #EBEBBD;
+}
+
+a {
+    display: block;
+    color: #C77DFF;
+    margin: 10px;
+}
