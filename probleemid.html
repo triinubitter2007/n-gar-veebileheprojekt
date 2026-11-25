@@ -27,10 +27,48 @@
         }
 
         .kirjeldus {
-            margin-bottom: 40px;
+            margin-bottom: 30px;
             font-size: 17px;
         }
 
+        /* Otsingukasti kujundus */
+        .otsing {
+            text-align: center;
+            margin-bottom: 35px;
+        }
+
+        .otsing label {
+            display: block;
+            margin-bottom: 12px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #785589;
+        }
+
+        .otsing input {
+            width: 100%;
+            max-width: 500px;
+            padding: 15px 20px;
+            border: 2px solid #785589;
+            border-radius: 12px;
+            background-color: #FFF5FD;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        .otsing input:focus {
+            border-color: #60436f;
+            box-shadow: 0 0 8px #78558966;
+        }
+
+        #tulemusi-pole {
+            text-align: center;
+            font-size: 18px;
+        }
+
+        /* Kategooriakaardid */
         .kategooriad {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
@@ -71,6 +109,7 @@
             grid-column: 2;
         }
 
+        /* Telefoniekraani kujundus */
         @media (max-width: 700px) {
             .kategooriad {
                 grid-template-columns: 1fr;
@@ -95,53 +134,93 @@
         selgituste, nõuannete ja abivõimalustega.
     </p>
 
+    <!-- OTSINGURIBA -->
+    <div class="otsing">
+        <label for="otsingukast">Otsi sobivat teemat:</label>
+        <input
+            type="search"
+            id="otsingukast"
+            placeholder="Näiteks uni, stress, raha..."
+        >
+    </div>
+
+    <p id="tulemusi-pole" hidden>
+        Ühtegi sobivat kategooriat ei leitud.
+    </p>
+
+    <!-- SEITSE KATEGOORIAT -->
     <div class="kategooriad">
 
         <div class="kaart">
             <h2>Akadeemiline ja ajaplaneerimise stress</h2>
             <p>Õppimine, tähtajad ja motivatsioon.</p>
+<<<<<<< HEAD
             <a class="nupp" href="akadeemiline-stress.html">Loe lähemalt</a>
+=======
+            <a class="nupp" href="akadeemiline.html">
+                Loe lähemalt
+            </a>
+>>>>>>> 6d7b48cc5954f197cbf849ed6c4933ef75ffc370
         </div>
 
         <div class="kaart">
             <h2>Emotsionaalsed raskused ja meeleolu</h2>
             <p>Ärevus, stress ja meeleoluga seotud mured.</p>
+<<<<<<< HEAD
             <a class="nupp" href="emotsionaalsed-ja-meeleoluhäired.html">Loe lähemalt</a>
+=======
+            <a class="nupp" href="emotsionaalne.html">
+                Loe lähemalt
+            </a>
+>>>>>>> 6d7b48cc5954f197cbf849ed6c4933ef75ffc370
         </div>
 
         <div class="kaart">
             <h2>Füsioloogilised ja elustiili tegurid</h2>
             <p>Uni, toitumine, liikumine ja igapäevased harjumused.</p>
-            <a class="nupp" href="eluviis.html">Loe lähemalt</a>
+            <a class="nupp" href="eluviis.html">
+                Loe lähemalt
+            </a>
         </div>
 
         <div class="kaart">
             <h2>Finantsilised ja elulised mured</h2>
             <p>Rahalised raskused, töö ja igapäevane toimetulek.</p>
-            <a class="nupp" href="rahalised-mured.html">Loe lähemalt</a>
+            <a class="nupp" href="rahalised-mured.html">
+                Loe lähemalt
+            </a>
         </div>
 
         <div class="kaart">
             <h2>Sotsiaalne kohanemine ja keskkonnamuutused</h2>
             <p>Suhted, üksildus ja uue keskkonnaga kohanemine.</p>
-            <a class="nupp" href="sotsiaalne-kohanemine.html">Loe lähemalt</a>
+            <a class="nupp" href="sotsiaalne-kohanemine.html">
+                Loe lähemalt
+            </a>
         </div>
 
         <div class="kaart">
             <h2>Enesehinnang ja kognitiivsed mustrid</h2>
             <p>Enesekindlus, perfektsionism ja enesehinnang.</p>
-            <a class="nupp" href="enesehinnang.html">Loe lähemalt</a>
+            <a class="nupp" href="enesehinnang.html">
+                Loe lähemalt
+            </a>
         </div>
 
         <div class="kaart">
             <h2>Abi kättesaadavus ja teadlikkus</h2>
             <p>Abi otsimine ja olemasolevad tugivõimalused.</p>
-            <a class="nupp" href="abi-teadlikkus.html">Loe lähemalt</a>
+            <a class="nupp" href="abi-teadlikkus.html">
+                Loe lähemalt
+            </a>
         </div>
 
     </div>
 
 </div>
+
+<!-- JavaScripti faili ühendamine -->
+<script src="otsing.js"></script>
 
 </body>
 </html>
