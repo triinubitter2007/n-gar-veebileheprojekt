@@ -17,6 +17,22 @@
 
         <div class="pic">
             <img src="Frame 3.png" alt="ket">
+            <div class="quiz-box">
+                <h4>Millega sa praegu samastud?</h4>
+                <form id="mental-health-quiz">
+                    <label><input type="checkbox" name="problem" value="akadeemiline"> Mul on raske tähtaegade ja õppimisega toime tulla</label><br>
+                    <label><input type="checkbox" name="problem" value="emotsionaalne"> Tunnen pidevat ärevust või meeleolulangust</label><br>
+                    <label><input type="checkbox" name="problem" value="eluviis"> Mu uni, toitumine või päevarežiim on paigast ära</label><br>
+                    <label><input type="checkbox" name="problem" value="raha"> Muretsen raha või töö ja õpingute ühildamise pärast</label><br>
+                    <label><input type="checkbox" name="problem" value="sotsiaalne"> Tunnen end üksildasena või on raske uue keskkonnaga kohaneda</label><br>
+                    <label><input type="checkbox" name="problem" value="enesehinnang"> Kipun end teistega võrdlema või olen liiga enesekriitiline</label><br>
+                    <label><input type="checkbox" name="problem" value="abi"> Ma ei tea, kust ja kuidas täpselt abi otsida</label><br>
+                    
+                    <button type="button" onclick="kuvaSoovitused()">Vaata soovitusi</button>
+                </form>
+                <div id="quiz-tulemus" class="tulemus-kast"></div>
+                <script src="quiz.js"></script> 
+            </div>
         </div>
     </div>
 
